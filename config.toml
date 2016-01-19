@@ -5,13 +5,13 @@ baseurl = "http://bruckner.danieldurante.com/"
 languageCode = "en-us"
 canonifyurls = true
 title = "James Bruckner Hope Fund"
-subtitle = "for Learning Disabled Adults"
+subtitle = "For Learning Disabled Adults"
 
 [params]
   title = "James Bruckner Hope Fund"
-  subtitle = "for Learning Disabled Adults"
+  subtitle = "For Learning Disabled Adults"
 
 [params.inc]
   title = "James Bruckner Hope Fund"
-  subtitle = "for Learning Disabled Adults"
+  subtitle = "For Learning Disabled Adults"
   company = "James Bruckner Hope Fund for Learning Disabled Adults"

@@ -11,7 +11,7 @@ postal = "07727"
 # Address Information
 
 <pre class="address">
-James Bruckner Hope Fund for Learning Disabled Adults
+James Bruckner Hope Fund For Learning Disabled Adults
 215 Colts Neck Rd
 Farmingdale, NJ 07727
 <!-- Tel: <a href="tel:+19178594065">917-859-4065</a> -->

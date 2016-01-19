@@ -2085,9 +2085,9 @@ a {
   z-index: 1;
   top: -30px; }
   .blog-cover section {
-    text-align: center;
+    text-align: left;
     position: absolute;
-    left: 0;
+    left: 64px;
     right: 0;
     top: 0;
     bottom: 0;
